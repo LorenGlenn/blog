@@ -1,0 +1,29 @@
+.intro{
+  text-decoration: underline;
+}
+
+.highlight{
+  text-shadow: 2px 2px red;
+  color: gray;
+  font-size: 50pt;
+}
+.aboutme{
+  background-color: black;
+  color: white;
+}
+.post{
+  font-family: fantasy;
+  font-size: 20pt;
+}
+
+.post1{
+  font-weight: 400;
+}
+
+.post2{
+  text-transform: uppercase;
+}
+
+.post3{
+  font-variant: small-caps;
+}
