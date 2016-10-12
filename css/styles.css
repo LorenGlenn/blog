@@ -14,16 +14,22 @@
 .post{
   font-family: fantasy;
   font-size: 20pt;
+
 }
 
 .post1{
   font-weight: 400;
+  border: 2px solid darkred;
+  margin-bottom: 5px;
 }
 
 .post2{
   text-transform: uppercase;
+  border: 2px solid darkred;
 }
 
 .post3{
   font-variant: small-caps;
+  border: 2px solid darkred;
+  margin-top: 5px;
 }
